@@ -1,0 +1,2 @@
+# CodeAMS
+Elaboration d'un système de codage, avec le code dénommé AMS, permettant de transformer un texte en un code unique, utilisant diversméthodes coordonnées, de traitement et de transformation d'un texte. Une interface graphique est disponible pour le codage, le décodage ainsi quela vérification de validité d'un code. L'extension du code AMS en des fichiers de divers types est en cours de réalisation
